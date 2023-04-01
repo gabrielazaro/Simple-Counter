@@ -1,0 +1,17 @@
+.contenedor{
+    display: inline-flex;
+    background: black;
+    justify-content: center;
+}
+.contenedor div{
+    display: flex;
+    color: white;
+    font-size: 100px;
+    line-height: 100px;
+    height: 200px;
+    background-color: #2a2e35;
+    margin: 10px;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+};
